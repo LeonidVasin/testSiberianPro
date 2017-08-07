@@ -1,0 +1,40 @@
+[
+    {
+    "groupTitle" : "group1",
+    "items" : [
+        {
+        "itemTitle" : "item1"
+        },
+        {
+        "itemTitle" : "item2"
+        }
+    ]
+    },
+    {
+    "groupTitle" : "group2",
+    "items" : [
+        {
+        "itemTitle" : "item1"
+        }
+    ]
+    },
+    {
+    "groupTitle" : "group3",
+    "items" : [
+    ]
+    },
+    {
+    "groupTitle" : "group4",
+    "items" : [
+        {
+        "itemTitle" : "item1"
+        },
+        {
+        "itemTitle" : "item2"
+        },
+        {
+        "itemTitle" : "item3"
+        }
+    ]
+    }
+]
